@@ -1,4 +1,4 @@
-# **API Rest em PHP**
+# ** API Rest em PHP**
 Este é um projeto Rest API desenvolvido utilizando a linguagem PHP e banco de dados MySQL.
 
 
@@ -50,4 +50,4 @@ Desenvolvi este projeto de API afins de estudo da linguagem PHP e o banco de dad
 
 
 
-Todo o projeto foi desenvolvido seguindo o tutorial do Canal [ProgrammingKnowledge]([https://link](https://www.youtube.com/watch?v=dlGtSoigdB0&list=PLS1QulWo1RIYWjdoEC1WbT8W3XGGWVXfW&index=11))
+Todo o projeto foi desenvolvido seguindo o tutorial do Canal [ProgrammingKnowledge](https://youtu.be/dlGtSoigdB0?list=PLS1QulWo1RIYWjdoEC1WbT8W3XGGWVXfW)
